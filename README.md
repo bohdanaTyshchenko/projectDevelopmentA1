@@ -31,4 +31,4 @@ NOTE
  
  * I used MIT License, because it permits users to do anything with a given project as long as they credit me as a developer and don’t hold me liable for the project’s use.
 
-Change on DEV branch is commited here.
+Change on DEV branch is commited here. 
